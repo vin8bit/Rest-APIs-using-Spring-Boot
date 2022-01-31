@@ -1,0 +1,4 @@
+com\vin8bit\profile\Profile.class
+com\vin8bit\profile\ProfileService.class
+com\vin8bit\profile\ProfileDAO.class
+com\vin8bit\profile\MyController.class
